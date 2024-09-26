@@ -1,4 +1,8 @@
+ID: 0x779b809335e1e9dd067cdeb745d31cf5b0a3da98fd0e011defe74230124f9851
+![image](https://github.com/user-attachments/assets/07a9a8c7-daac-48d3-907e-762c9b1f8bd2)
+
 # LoyaltyRewards Smart Contract
+
 
 ## Vision
 
